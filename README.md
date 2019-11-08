@@ -2,4 +2,5 @@
 
 ### Starting the program
 `npm install`
+<br>
 `npm start`
