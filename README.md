@@ -1,2 +1,3 @@
 # RentReporters App
 
+`npm start`
