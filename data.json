@@ -1,0 +1,61 @@
+{
+  "benefits": [
+    {
+      "text": "Expedited Reporting with RentCheck",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-rentcheck.png",
+      "detail": "This free service allows us to automatically verify your rent payments, limiting contact with your landlord. Simply link your bank account to your RentReporters account during signup."
+    },
+    {
+      "text": "Satisfaction Guarantee",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-guarantee.png",
+      "detail": "If you are not delighted with your score change, we will gladly issue a refund."
+    },
+    {
+      "text": "Personal Credit Specialist",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-specialist.png",
+      "detail": "A dedicated credit specialist to assist you on yoru path to better credit."
+    },
+    {
+      "text": "Additional Landlord",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-additional-ll.png",
+      "detail": "Report up to 4 years of history. Additional landlords can be added for $50, per landlord."
+    },
+    {
+      "text": "Credit Dashboard",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-dashboard.png",
+      "detail": "View your credit score, manage your account, and get credit tips."
+    },
+    {
+      "text": "Free Credit Score",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-freescore.png",
+      "detail": "Free access to your most recent TransUnion credit score so that you can see how much your score went up."
+    },
+    {
+      "text": "24 Months of Rent History",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-24months.png",
+      "detail": "24 months of rent history reported to TransUnion and Equifax."
+    },
+    {
+      "text": "Spouse/Roommate Discount",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-spouse-roommate.png",
+      "detail": "Spouses and Roommates can sign up at a discounted fee of $50."
+    },
+    {
+      "text": "Monthly Reporting",
+      "url": "https://www.rentreporters.com/wp-content/themes/rent-reporters/dist/images/icon-monthly-reporting.png",
+      "detail": "For $9.95, we will update your rental tradeline to reflect your on-going rent payments. Cancel at any time."
+    }
+  ],
+  "testimonies": [
+    {
+      "name": "David",
+      "picUrl": "https://www.rentreporters.com/wp-content/uploads/2018/08/David-Photo2.jpg",
+      "testimony": "I heard about RentReporters and decided to sign up. The results were great – in about a month, I went from being credit invisible to having a score of 677, and now, my score is up to 760!"
+    },
+    {
+      "name": "Jonathan",
+      "picUrl": "https://www.rentreporters.com/wp-content/uploads/2018/08/Jonathan-Weary-photo2.jpg",
+      "testimony": "With my new and improved credit score, I was approved for a loan, and as it turns out, I was approved by the lender who originally declined me. I’m now on my way to meeting my life goals and moving on with my real estate career, as I’m now acquiring new properties."
+    }
+  ]
+}
